@@ -1,48 +1,42 @@
-# { WORKSHOP NAME } 
-### Presentation: [{ YOUR PRESENTATION NAME }](workshop/presentation_template.pdf)
+# Choose Your Own Workshop - DCND 2025
 
-## Workshop description
-Describe why your topic is important and what you want to share with your audience
+## Purpose of this Repo
+...
 
-## Requirements
-* PyLadies Amsterdam uses [uv](https://docs.astral.sh/uv/) for dependency management
-* Google account if you want to use [Google Colab](https://colab.research.google.com/)
- 
-## Usage
-### with uv
-Run the following code:
-```bash
-git clone <github-url-of-workshop-repo>
-cd <name-of-repo>
+## Workshops
 
-# create and activate venv, install dependencies
-uv sync
-```
-### with Google Colab
-1. Visit [Google Colab](https://colab.research.google.com/)
-2. In the top left corner select "File" &#8594; "Open Notebook"
-3. Under "GitHub", enter the URL of the repo of this workshop
-4. Select one of the notebooks within the repo.
-5. At the top of the notebook, add a Code cell and run the following code:
-```bash
-!git clone <github-url-of-workshop-repo>
-%cd <name-of-repo>
-!pip install -r requirements.txt
-```
-### for a workshop giver
-To get started, open the `pyproject.toml` file and set the required Python version. The pre-selected version 3.8 is generally a safe choice for most use cases.
+### Software & Data Engineering
+- [Modern Data Ingestion Stack](https://github.com/pyladiesams/data-ingestion-modern-stack-apr2025)
+- [BDD in Python](https://github.com/pyladiesams/bdd-with-python-mar2025)
+- [Global AI Bootcamp](https://github.com/pyladiesams/global-ai-bootcamp-mar2025)
+- [GeoData in Python](https://github.com/pyladiesams/geodata-in-python-oct2023)
+- [Introduction to Snowflake](https://github.com/pyladiesams/snowflake-apr2023)
+- [Cloud Native Webapps for Beginners](https://github.com/pyladiesams/cloud-native-web-app-beginner-aug2022)
+- [Django Rest Framework](https://github.com/pyladiesams/101-django-rest-framework-jan2023)
+- [Python101](https://github.com/pyladiesams/python101-beginner-jul2022)
+- [An Introduction to Web Scraping with Python and Azure Functions](https://github.com/pyladiesams/web-scraping-beginner-may2021)
+- [An Introduction to PySpark](https://github.com/pyladiesams/pyspark-nov2019)
+- [An Introduction to FOSS Contributions](https://github.com/pyladiesams/FOSS-beginner-jan2021)
+- [Django Girls Tutorial](https://github.com/pyladiesams/django-girls-build-a-blog-beginner-sep2022)
 
-After you have specified the Python version, you can create a virtual environment with `uv venv` and add packages with `uv add <package>`. Before the workshop, you can generate a requirements.txt file, which is needed e.g. for running code in Google Colab, by running `uv export > requirements.txt`.
 
-## Video record
-Re-watch [this YouTube stream](link)
+### GenAI
+- [Optimize AI Prompts](https://github.com/pyladiesams/optimize-ai-prompts-jun2025)
+- [Dapr in Action](https://github.com/pyladiesams/dapr-in-action-may2025)
+- [Evaluating LLM Applications](https://github.com/pyladiesams/eval-llm-based-apps-jan2025)
+- [LLM Guardrails](https://github.com/pyladiesams/llm-guardrails-jul2024)
+- [LLM Agents with Langchain](https://github.com/pyladiesams/introduction-to-llm-agents-with-langchain-jun2024)
+- [https://github.com/pyladiesams/intro-RAG-elastic-apr2024](https://github.com/pyladiesams/intro-RAG-elastic-apr2024)
+- [Personalization of Image Diffusion Models](https://github.com/pyladiesams/personalization-with-text-to-image-diffusion-models-feb2024)
 
-## Credits
-This workshop was set up by @pyladiesams and {your GitHub handler}
 
-## Appendix
-### Pre-Commit Hooks
-
-To ensure our code looks beautiful, PyLadies uses pre-commit hooks. You can enable them by running `pre-commit install`. You may have to install `pre-commit` first, using `uv sync`, `uv pip install pre-commit` or `pip install pre-commit`.
-
-Happy Coding :)
+### MLE & Analytics
+- [Intro to Data Storytelling](https://github.com/pyladiesams/intro-data-storytelling-dec2024)
+- [Intro to Explainability in Finance](https://github.com/pyladiesams/intro-to-explainabilty-in-finance-oct2024)
+- [Conformal Predictions](https://github.com/pyladiesams/conformal-prediction-jan2024)
+- [Time Series Forecasting](https://github.com/pyladiesams/time-series-forecasting-sep2023)
+- [Introduction to Pyro](https://github.com/pyladiesams/pyro-may2023)
+- [PyTorch for Beginners](https://github.com/pyladiesams/deepLearningPyTorch-beginner-nov2022)
+- [An Introduction to Graph Databases with GQLAlchemy and Python](https://github.com/pyladiesams/graphdbs-gqlalchemy-beginner-mar2022)
+- [Introduction to Product List Sorting (PLS)](https://github.com/pyladiesams/product-sorting-beginner-sep2021)
+- [An introduction to Classification Bias](https://github.com/pyladiesams/classification-bias-beginner-apr2021)
