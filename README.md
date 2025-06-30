@@ -30,7 +30,7 @@ Whether you're revisiting a workshop you joined, catching up on one you missed, 
 - [Evaluating LLM Applications](https://github.com/pyladiesams/eval-llm-based-apps-jan2025)
 - [LLM Guardrails](https://github.com/pyladiesams/llm-guardrails-jul2024)
 - [LLM Agents with Langchain](https://github.com/pyladiesams/introduction-to-llm-agents-with-langchain-jun2024)
-- [https://github.com/pyladiesams/intro-RAG-elastic-apr2024](https://github.com/pyladiesams/intro-RAG-elastic-apr2024)
+- [An Introduction to RAG with Elastic](https://github.com/pyladiesams/intro-RAG-elastic-apr2024)
 - [Personalization of Image Diffusion Models](https://github.com/pyladiesams/personalization-with-text-to-image-diffusion-models-feb2024)
 
 
