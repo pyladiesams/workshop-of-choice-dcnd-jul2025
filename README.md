@@ -1,7 +1,13 @@
 # Choose Your Own Workshop - DCND 2025
 
 ## Purpose of this Repo
-...
+This repository is a one-stop showcase of PyLadies Amsterdam’s top workshops from the past year, curated for presentation at Dutch Digital Native Day 2025. It’s designed to:
+
+- Highlight engaging Python topics—from machine learning to open-source best practices—that resonated with our community.
+- Empower workshop facilitators with ready-to-go content, reusable notebooks, and templates.
+- Inspire and guide attendees, newcomers, and organizers by offering polished, accessible materials created collaboratively by PyLadies Amsterdam.
+
+Whether you're preparing to give your own workshop, looking to refresh your Python skills, or exploring how vibrant communities share knowledge, this repo has you covered.
 
 ## Workshops
 
