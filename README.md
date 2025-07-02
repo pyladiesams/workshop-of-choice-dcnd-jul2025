@@ -1,7 +1,7 @@
 # Choose Your Own Workshop - DCND 2025
 
 ## Purpose of this Repo
-This repository was created for Dutch Digital Native Day 2025 to give attendees a chance to revisit and recap some of the most popular workshops run by PyLadies Amsterdam over the past years.
+This repository was created for Dutch Cloud Native Day 2025 to give attendees a chance to revisit and recap some of the most popular workshops run by PyLadies Amsterdam over the past years.
 
 It serves as a curated collection of hands-on, beginner-friendly workshop materials. and learning companion for those who attended our sessions and want to dig deeper at their own pace and serves as a community archive that showcases the diversity of topics we've explored, from data science basics to creative coding.
 
@@ -17,6 +17,7 @@ Fancy processing (large) amounts of data in Python? Check out these Workshops to
 - [An Introduction to PySpark](https://github.com/pyladiesams/pyspark-nov2019)*
 - [Introduction to Snowflake](https://github.com/pyladiesams/snowflake-apr2023)*
 - [An Introduction to Web Scraping with Python and Azure Functions](https://github.com/pyladiesams/web-scraping-beginner-may2021)
+- [GeoData in Python](https://github.com/pyladiesams/geodata-in-python-oct2023)
 
 #### Web Applications & APIs
 APIs and web applications are the gateway to a world of information. Check out the below workshops and get inspired on how to open your code up to others.
@@ -27,10 +28,7 @@ APIs and web applications are the gateway to a world of information. Check out t
 #### Python Code & Libraries
 Python thrives on its vibrant ecosystem of open source libraries. Check out some of them (and learn how to contribute?) below!
 - [BDD in Python](https://github.com/pyladiesams/bdd-with-python-mar2025)
-- [Python101](https://github.com/pyladiesams/python101-beginner-jul2022)
 - [An Introduction to FOSS Contributions](https://github.com/pyladiesams/FOSS-beginner-jan2021)
-- [GeoData in Python](https://github.com/pyladiesams/geodata-in-python-oct2023)
-
 
 
 ### GenAI
