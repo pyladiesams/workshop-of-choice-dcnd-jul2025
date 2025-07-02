@@ -16,7 +16,7 @@ Fancy processing (large) amounts of data in Python? Check out these Workshops to
 - [Modern Data Ingestion Stack](https://github.com/pyladiesams/data-ingestion-modern-stack-apr2025)
 - [An Introduction to PySpark](https://github.com/pyladiesams/pyspark-nov2019)*
 - [Introduction to Snowflake](https://github.com/pyladiesams/snowflake-apr2023)*
-- [An Introduction to Web Scraping with Python and Azure Functions](https://github.com/pyladiesams/web-scraping-beginner-may2021)
+- [An Introduction to Web Scraping with Python and Azure Functions](https://github.com/pyladiesams/web-scraping-beginner-may2021)**
 - [GeoData in Python](https://github.com/pyladiesams/geodata-in-python-oct2023)
 
 #### Web Applications & APIs
